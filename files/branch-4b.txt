@@ -1,1 +1,2 @@
-This is a new file, branch-4b.txt, created in branch-4a, in folder name files.  This file was modified again in main branch.
+This is a new file, branch-4b.txt, created in branch-4a, in folder name files.
+This line was changed again in branch-4b.
