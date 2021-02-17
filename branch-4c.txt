@@ -1,1 +1,1 @@
-This is a new file, branch-4c.txt, created in branch-4a, in the root project folder.
+This is a new file, branch-4c.txt, created in branch-4a, in the root project folder.  It has been edited while branch-4b was checked out.
