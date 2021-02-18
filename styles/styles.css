@@ -1,0 +1,16 @@
+
+
+footer {display:flex;
+    flex:row;
+    padding:20px 0;
+
+    box-shadow: 0 50vh 0 50vh #dc3545;
+
+}
+
+
+#home-cards {display:flex; flex:row;
+justify-content: space-evenly;
+
+
+}
